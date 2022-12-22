@@ -41,7 +41,7 @@
     "immutable": "^3.8.1",
     "js-yaml": "^3.6.1",
     "jsencrypt": "^3.0.0-rc.1",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "koa": "^2.0.0",
     "koa-body": "^4.0.4",
     "koa-favicon": "^2.0.0",
